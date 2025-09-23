@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "8f6c168b-262f-916d-301c-26a48de776b3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f49bbe54-408a-4ccd-adc3-2b48798f70cc",
+    "website": "introduction-to-international-relations"
+  },
+  "course_title": "Introduction to International Relations",
+  "hide_download": false,
+  "course_description": "This course provides an introduction to the causes of international conflict and cooperation. Topics include war initiation, crisis bargaining, international terrorism, nuclear strategy, interstate economic relations, economic growth, international law, human rights, and environmental politics.",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.41",
+  "course_image_thumbnail": {
+    "content": "818b4e6e-77a8-403e-9982-7fc190d67bea",
+    "website": "introduction-to-international-relations"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes",
+    "Readings"
+  ],
+  "site_uid": "a8fab9af-642d-4785-8912-5d54a31de695",
+  "site_short_id": "17.41-spring-2023",
+  "site_url_path": "courses/17-41-introduction-to-international-relations-spring-2023"
+}

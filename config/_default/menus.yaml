@@ -1,0 +1,51 @@
+leftnav:
+- identifier: a9ac310c-05c3-434c-8e16-89b6b40187e3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 358d8900-d3d6-4e0b-bdeb-63985b3c2775
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 369bb6c6-1a04-4cd6-9022-37e265eeb3bb
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 490c4e82-2916-4ec9-aa3b-2e30d68b78f2
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 40
+- identifier: 1ff54540-2e0e-4a08-a7e2-2e13b4880386
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 0a780a17-c3df-4d81-8c27-1373fc89837c
+  name: Short Policy Memos
+  pageRef: /pages/short-policy-memo-instructions
+  parent: 1ff54540-2e0e-4a08-a7e2-2e13b4880386
+  weight: 10
+- identifier: 76d0e3ca-6959-432b-a2b0-1bda857a255b
+  name: Policy Memo 1
+  pageRef: /pages/policy-memo-1
+  parent: 1ff54540-2e0e-4a08-a7e2-2e13b4880386
+  weight: 20
+- identifier: a8ed25fd-24e4-4aa4-8baa-c0d05473291e
+  name: Policy Memo 2
+  pageRef: /pages/policy-memo-2
+  parent: 1ff54540-2e0e-4a08-a7e2-2e13b4880386
+  weight: 30
+- identifier: f48a1080-f752-4173-b7b7-be2282599da8
+  name: Policy Memo 3
+  pageRef: /pages/policy-memo-3
+  parent: 1ff54540-2e0e-4a08-a7e2-2e13b4880386
+  weight: 40
+- identifier: 281c573b-4572-4b09-b927-cfa2f0765e07
+  name: 'Long Policy Memo '
+  pageRef: /pages/long-policy-memo-instructions
+  parent: 1ff54540-2e0e-4a08-a7e2-2e13b4880386
+  weight: 50
+- identifier: 820aa762-395e-48a7-9f21-8db58cc414af
+  name: 'Oral Presentation '
+  pageRef: /pages/oral-presentation-instructions
+  parent: 281c573b-4572-4b09-b927-cfa2f0765e07
+  weight: 10
