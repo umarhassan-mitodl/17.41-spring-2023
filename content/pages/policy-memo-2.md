@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes information on the second policy memo.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Policy Memo 2
 uid: a8ed25fd-24e4-4aa4-8baa-c0d05473291e
 ---

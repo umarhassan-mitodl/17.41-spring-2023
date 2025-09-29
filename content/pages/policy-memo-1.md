@@ -13,4 +13,4 @@ Advise the President of the United States on what the next steps should be with 
 
 This policy memo is due at the end of week 3.
 
-​<sup>1</sup> A timeline: Helene Cooper and Edward Wong. (2023). “{{% resource_link "5d4827f3-d3ed-434e-b5fb-6e071886e76c" "China’s spy balloon drifted for 7 days across the U.S.: A timeline" %}},” *New York Times*, February 4, 2023.
+​<sup>1</sup> A timeline: Helene Cooper and Edward Wong. (2023). “[China’s spy balloon drifted for 7 days across the U.S.: A timeline](https://www.nytimes.com/2023/02/04/us/china-spy-balloon-time.html),” *New York Times*, February 4, 2023.

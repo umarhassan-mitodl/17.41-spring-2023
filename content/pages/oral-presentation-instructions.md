@@ -3,6 +3,8 @@ content_type: page
 description: This section contains instructions on the oral presentation of the long
   policy memo.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Oral Presentation
 uid: 820aa762-395e-48a7-9f21-8db58cc414af
 ---

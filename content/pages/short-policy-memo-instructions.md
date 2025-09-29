@@ -52,14 +52,14 @@ We encourage clear, active prose. Avoid jargon and passive voice where possible.
 
 These resources offer general writing advice that may be helpful:
 
-Verlyn Klinkenborg. *Several Short Sentences about Writing*. Vintage, 2013. ISBN: ‎9780307279415. \[Preview with {{% resource_link "5394f8ee-87fa-4898-84e6-06c6448eab4d" "Google Books" %}}\]
+Verlyn Klinkenborg. *Several Short Sentences about Writing*. Vintage, 2013. ISBN: ‎9780307279415. \[Preview with [Google Books](https://www.google.com/books/edition/Several_Short_Sentences_About_Writing/OsPxrXU9P5gC?hl=en&gbpv=1)\]
 
-Helen Sword. *Stylish Academic Writing*. Harvard University Press, 2012. ISBN: ‎9780674064485. \[Preview with {{% resource_link "fafe91e3-42f1-45bc-bbbe-a2201f044759" "Google Books" %}}\]
+Helen Sword. *Stylish Academic Writing*. Harvard University Press, 2012. ISBN: ‎9780674064485. \[Preview with [Google Books](https://www.google.com/books/edition/Stylish_Academic_Writing/nN51E2nxQfgC?hl=en&gbpv=1)\]
 
-John Van Maanen. *Tales of the Field: On Writing Ethnography*. 2<sup>nd</sup> ed. University of Chicago Press, 2011. ISBN: ‎9780226849645. \[Preview with {{% resource_link "d051f937-1fb1-40ef-9d8e-170f95a05bc0" "Google Books" %}}\]
+John Van Maanen. *Tales of the Field: On Writing Ethnography*. 2<sup>nd</sup> ed. University of Chicago Press, 2011. ISBN: ‎9780226849645. \[Preview with [Google Books](https://www.google.com/books/edition/Tales_of_the_Field/V9hi269OD9cC?hl=en&gbpv=1)\]
 
 William Germano. *From Dissertation to Book*. 2<sup>nd</sup> ed. University of Chicago Press, 2013. ISBN: ‎9780226062044. 
 
-Joan Bolker. *Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing your Doctoral Thesis*. Owl Books, 1998. ISBN: ‎9780805048919. \[Preview with {{% resource_link "d03a164d-048b-42d8-af68-35f618991779" "Google Books" %}}\]
+Joan Bolker. *Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Starting, Revising, and Finishing your Doctoral Thesis*. Owl Books, 1998. ISBN: ‎9780805048919. \[Preview with [Google Books](https://www.google.com/books/edition/Writing_Your_Dissertation_in_Fifteen_Min/q5bGvErV1lgC?hl=en&gbpv=1)\]
 
-​<sup>1</sup> This is an example of a real policy memo by a professional political scientist: Ketian Zhang (2020). “{{% resource_link "8a6456f4-371a-4e6c-9ad8-e9dc512e3d08" "Chinese Coercion in the South China Sea: Resolve and Costs" %}}.” *International Security* (January).
+​<sup>1</sup> This is an example of a real policy memo by a professional political scientist: Ketian Zhang (2020). “[Chinese Coercion in the South China Sea: Resolve and Costs](https://www.belfercenter.org/publication/chinese-coercion-south-china-sea-resolve-and-costs-0).” *International Security* (January).
