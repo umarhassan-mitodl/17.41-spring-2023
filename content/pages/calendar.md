@@ -103,11 +103,11 @@ Session 21—Applications: Nuclear Weapons (1)
 
 Session 22—Applications: Nuclear Weapons (2)
 
-- In-class screening: [*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*](https://www.imdb.com/title/tt0057012/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_dr.%2520strangelove)*.* Directed by Stanley Kubrick. Color, 94 min. 1964.
+- In-class screening: {{% resource_link "c89896b7-34ea-4b99-b83d-cb938aafb402" "*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*" %}}*.* Directed by Stanley Kubrick. Color, 94 min. 1964.
 
 Session 23—Applications: Nuclear Weapons (3)
 
-- In-class screening: [*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*](https://www.imdb.com/title/tt0057012/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_dr.%2520strangelove)*.* Directed by Stanley Kubrick. Color, 94 min. 1964.
+- In-class screening: {{% resource_link "c89896b7-34ea-4b99-b83d-cb938aafb402" "*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*" %}}*.* Directed by Stanley Kubrick. Color, 94 min. 1964.
 
 *Assignment due: Long Policy Memo*
 
@@ -115,7 +115,7 @@ Session 23—Applications: Nuclear Weapons (3)
 
 Session 24
 
-- In-class discussion: [*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*](https://www.imdb.com/title/tt0057012/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_dr.%2520strangelove)*.* Directed by Stanley Kubrick. Color, 94 min. 1964.
+- In-class discussion: {{% resource_link "c89896b7-34ea-4b99-b83d-cb938aafb402" "*Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb*" %}}*.* Directed by Stanley Kubrick. Color, 94 min. 1964.
 
 Session 25
 
